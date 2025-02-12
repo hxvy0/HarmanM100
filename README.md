@@ -17,4 +17,4 @@ Turn on Clipboard Permission on Soundcore app Settings.
 ![1000001299](https://github.com/user-attachments/assets/9623135d-53de-41e5-879c-e81bcd1cea87)
 
 ### A little note
-If u are using Apple Music or Tidal etc. use LDAC codec for Hi-Res.
+If u are using Apple Music or Tidal etc. use LDAC codec for Hi-Res or Loseless Audio.
