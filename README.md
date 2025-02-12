@@ -4,7 +4,8 @@ This preset is optimized for audiophiles seeking to capture every nuance of thei
 This equalizer is only for Soundcore Motion 100.
 
 ## The Equalizer Setting...
-![1000001295](https://github.com/user-attachments/assets/c1993b92-9a93-47b0-a983-3c9d7f1aee54)
+![Screenshot_20250212-160526_soundcore](https://github.com/user-attachments/assets/e880069a-09ea-4cd9-8cf9-c71e6d0760c3)
+
 
 (0)(-1)(0)(+2)(+2)(+2)(+2)(+4)(+5)
 
