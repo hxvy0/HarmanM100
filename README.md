@@ -8,8 +8,6 @@ This equalizer is only for Soundcore Motion 100.
 ![1000001295](https://github.com/user-attachments/assets/c1993b92-9a93-47b0-a983-3c9d7f1aee54)
 
 ## Import Here Automatically
-[hxvy0] share HarmanM100 EQ from Motion 100 with you. 
-
 https://dl-soundcore.soundcore.com/qcdl?flow=soundcore&tk=sBOVGqMs&pn=A3133&rg=GW 
 
 ## Problems Importing?
