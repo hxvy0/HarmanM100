@@ -9,6 +9,7 @@ This equalizer is only for Soundcore Motion 100.
 
 ## Import Here Automatically
 [hxvy0] share HarmanM100 EQ from Motion 100 with you. 
+
 https://dl-soundcore.soundcore.com/qcdl?flow=soundcore&tk=sBOVGqMs&pn=A3133&rg=GW 
 
 ## Problems Importing?
