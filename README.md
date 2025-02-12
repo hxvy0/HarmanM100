@@ -6,10 +6,10 @@ This equalizer is only for Soundcore Motion 100.
 ## The Equalizer Setting...
 ![1000001295](https://github.com/user-attachments/assets/c1993b92-9a93-47b0-a983-3c9d7f1aee54)
 
-(-1)(-2)(-1)(+2)(+2)(+2)(+2)(+2)(-2)
+(0)(-1)(0)(+2)(+2)(+2)(+2)(+4)(+5)
 
 ## Import Here Automatically
-https://dl-soundcore.soundcore.com/qcdl?flow=soundcore&tk=sBOVGqMs&pn=A3133&rg=GW 
+https://dl-soundcore.soundcore.com/qcdl?flow=soundcore&tk=4kgXAKqh&pn=A3133&rg=GW
 
 ## Problems Importing?
 Turn on Clipboard Permission on Soundcore app Settings.
