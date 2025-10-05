@@ -19,8 +19,8 @@ Turn on Clipboard Permission on Soundcore app Settings.
 ![IMG_0413](https://github.com/user-attachments/assets/1201608a-24cc-4dda-8dfe-d9162c629ad8)
 
 
-### Info About the device
-
+## Info About the device
+### Specs
 | Feature | Specification |
 |---|---|
 | Model | Motion 100 (A3133) |
