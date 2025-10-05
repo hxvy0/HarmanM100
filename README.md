@@ -3,19 +3,21 @@ This preset is optimized for audiophiles seeking to capture every nuance of thei
 
 This equalizer is only for Soundcore Motion 100.
 
-## The Equalizer Setting...
-![Screenshot_20250221-174509_soundcore](https://github.com/user-attachments/assets/a61b73ac-683b-47a2-b944-90af6fcdd27f)
+## The Equalizer Setting
+<img width="1170" height="2532" alt="IMG_0414" src="https://github.com/user-attachments/assets/ef921d94-d502-4b55-9b5b-41d516801058" />
 
 
-(0)(-1)(0)(+2)(+2)(+2)(+2)(+2)(+1)
+
+(+4)(+3)(+2)(+2)(+2)(+2)(+2)(+2)(+1)
 
 ## Import Here Automatically
-https://dl-soundcore.soundcore.com/qcdl?flow=soundcore&tk=CeyQyYpP&pn=A3133&rg=GW
+https://dl-soundcore.soundcore.com/qcdl?flow=soundcore&tk=9QHyr6MC&pn=A3133&rg=GW
 
 ## Problems Importing?
 Turn on Clipboard Permission on Soundcore app Settings.
 
-![1000001299](https://github.com/user-attachments/assets/9623135d-53de-41e5-879c-e81bcd1cea87)
+![IMG_0413](https://github.com/user-attachments/assets/1201608a-24cc-4dda-8dfe-d9162c629ad8)
+
 
 ### A little note
 If u are using Apple Music or Tidal etc. use LDAC codec for Hi-Res or Loseless Audio.
